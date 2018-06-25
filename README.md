@@ -1,0 +1,5 @@
+-clona el repositorio de git
+-Entra la carpeta "library_front"
+-Ejecuta el comando "npm install"
+-Espera a que termine y ejecutas el comando "npm start"
+-Luego podras acceder desde "http://localhost:3000"
